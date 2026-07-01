@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "romeo_13card",
+      "oem": "Xiaomi",
+      "device": "Redmi 10C",
+      "filename": "",
+      "download": "",
+      "timestamp": ,
+      "md5": "",
+      "sha256": "",
+      "size": ,
+      "version": "3.11",
+      "buildtype": "user",
+      "forum": "",
+      "gapps": "https://bitgapps.io/",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/Romeo_13card",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
