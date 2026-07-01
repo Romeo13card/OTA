@@ -3,7 +3,6 @@ Changelog
 01/07/2026
 ---------------
 - Sync with latest source upto (https://t.me/lunaris_dailyUP)
-- Initial release by @romeo_13card
 - Included MIUI Camera and Dolby Atmos
 - Included with my NeutronKernel
 - KSUN v3.2.0 & SUSFS v2.2.0 Included
