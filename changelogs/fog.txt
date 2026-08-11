@@ -1,6 +1,14 @@
 Changelog
 =========
 
+11/08/2026
+-------------
+- Sync witth latest source upto (https://t.me/lunaris_dailyUP/1100) 
+- Included MIUI Camera and Dolby Atmos
+- OTA work(?)
+- KSUN v3.2.0 & SUSFS v2.2.0 Included
+- Signed ROM
+
 03/07/2026
 --------------
 - Sync with latest source upto (https://t.me/lunaris_update/337)
